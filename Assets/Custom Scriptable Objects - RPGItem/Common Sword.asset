@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3c4cb544b9069c45aaa6a39ecf13954, type: 3}
+  m_Name: Common Sword
+  m_EditorClassIdentifier: 
+  itemName: Common Sword
+  description: A common sword found in the area of Valardin
+  icon: {fileID: -6825535200629209642, guid: 32fcee62cf5fdd0418564d8422fedbc8, type: 3}
+  rarity: 1
+  itemType: 0
+  goldValue: 10
+  requiredLevel: 1
+  isStackable: 0
+  maxStackSize: 20
+  damageAmount: 0
+  attackSpeed: 0.5
+  critChance: 0
+  armorValue: 51
+  movementPenalty: 5.75
+  healthRestored: 81
+  manaRestored: 19
+  duration: 1.38
